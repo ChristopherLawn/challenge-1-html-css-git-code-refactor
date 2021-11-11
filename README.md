@@ -10,8 +10,8 @@ A website that offers advertising options for businesses looking to increase the
 ## Website
 https://christopherlawn.github.io/challenge-1-html-css-git-code-refactor/
 
-## Screenshot of Page Header
-![Horiseon Homepage](./assets/images/Horiseon-Screen-Capture.png?raw=true "Horiseon Homepage")
+## Screenshot of Horiseon Homepage
+<img src="./assets/images/Horiseon-Screen-Capture.PNG" alt="Horiseon Homepage")
 
 ## Contribution
 Made with ❤️ by Chris Lawn
